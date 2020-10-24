@@ -157,7 +157,7 @@
     </text>
   </svg>
 </div>
-<h1>Learning Task 6.1</h1>
+<h1>Learning Task 6.2</h1>
 <div class="containerLT62">
   <svg width="300" height="300"> 
     <rect width="300" height="300" style="fill:rgb(182,234,196);stroke-width:80;stroke:rgb(84,199,182)" >
